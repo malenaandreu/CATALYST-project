@@ -1,7 +1,10 @@
 .Header {
+  flex: auto;
   border: 1px red;
 }
 
 .App {
+  height: 100%;
+  width: 100%;
   border: 1px green;
 }
