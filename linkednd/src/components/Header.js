@@ -1,5 +1,5 @@
 import '../App.css';
-import logo from '.../assets/2273-Ampersand.png';
+import logo from '../assets/2273-Ampersand.png';
 
 function Header() {
     return (
