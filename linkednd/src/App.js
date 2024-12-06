@@ -5,8 +5,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1>linkednd</h1>
       <Header />
+      <h1>linkednd</h1>
     </div>
   );
 }
